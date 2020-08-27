@@ -1,4 +1,4 @@
 /mern_test
 /node_react/server/node_modules
-/node_react/client
+/node_react/client/node_modules
 my-aws-test-keypair.pem
